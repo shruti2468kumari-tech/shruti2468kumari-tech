@@ -1,36 +1,97 @@
-# Hi, I'm Shruti Kumari 👋
+# Hi, I’m Shruti Kumari 👋
 
-### Geopolitical Research Analyst | E-commerce Research Enthusiast | Data Specialist
+**E-commerce Research Analyst | Market & Competitive Intelligence | Data-Driven Research**
 
-(start_span)(start_span)I am a detail-oriented researcher with a background in **Political Science** and a passion for uncovering actionable insights through data(end_span)(end_span)(start_span)Whether I am analyzing international relations or e-commerce trends, I focus on accuracy, quality control, and strategic recommendations.(end_span)
-
----
-
-### 🚀 Quick Overview
-* (start_span)(start_span)🔍 **Research Specialist:** Experienced in conducting in-depth analysis for published geopolitical articles.(end_span)(end_span)
-* (start_span)📊 **Data Driven:** Proficient in MS-Excel, Google Sheets, and Data Auditing to visualize complex information.(end_span)
-* 🤖 **AI Integrated:** Leveraging ChatGPT and Advanced AI to optimize research workflows and accuracy.
-  * (start_span)(start_span)🌍 **Impact Focused:** Dedicated to community growth, having mentored 50+ peers and volunteered for literacy initiatives.(end_span)(end_span)
+I am a detail-oriented **E-commerce Research Analyst** with a strong foundation in Political Science and hands-on experience in market research, data analysis, and insight generation. I specialize in turning complex, unstructured data into clear business insights that support product, marketing, and growth decisions.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **(start_span)Data & Analysis:** MS-Excel, Google Sheets, Data Entry Platforms, Visual Analysis.(end_span)
-* **Documentation:** MS-Word, Google Docs, MS-PowerPoint.
-* **Productivity & AI:** ChatGPT, Advanced AI, Google Calendar.
-* **(start_span)Core Skills:** Critical Thinking, Research, Attention to Detail, and Teamwork.(end_span)
+## 🚀 Professional Snapshot
+
+* 🔍 **Market Research & Analysis**: Experience in category research, market sizing, growth trends, and competitive benchmarking.
+* 📊 **Data-Driven Approach**: Skilled in MS Excel and Google Sheets (formulas, pivots, audits) to analyze and visualize insights.
+* 🧠 **Insight to Action**: Convert research findings into concise, visually clear presentations for stakeholders.
+* 🤖 **AI-Enabled Workflows**: Use ChatGPT and AI tools to accelerate research, validation, and documentation.
+* 🌍 **Collaborative & Impact-Focused**: Mentored 50+ peers and contributed to community literacy initiatives.
 
 ---
 
-### 📈 Current Focus
-- 🛍️ Deep-diving into **E-commerce Research** and market trends.
-- (start_span)🌍 Exploring the intersection of **Technology and Geopolitics**.(end_span)
-- (start_span)💡 Providing mentorship and support to junior peers.(end_span)
+## 🛠️ Tools & Skills
+
+### Research & Analysis
+
+* Market & Competitive Research
+* Buyer Persona Development
+* Industry & Trend Tracking
+* Qualitative + Quantitative Analysis
+
+### Data & Productivity Tools
+
+* MS Excel (advanced formulas, pivot tables)
+* Google Sheets
+* Google Slides / PowerPoint
+* Data Entry & Research Platforms
+
+### Core Strengths
+
+* Critical Thinking
+* Attention to Detail
+* Clear Written & Verbal Communication
+* Team Collaboration & Knowledge Management
 
 ---
 
-### 📫 Connect with Me
-- **(start_span)Location:** Delhi(end_span)
-- **(start_span)Email:** Shrutikumari08083@gmail.com(end_span)
-- **Experience:** [https://www.linkedin.com/in/shruti-kumari-776978303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-(start_span)"Always eager to add value in this world"(end_span)
+## 📈 Current Focus
+
+* 🛍️ E-commerce market research and consumer behavior analysis
+* 📦 Competitive intelligence for online brands and platforms
+* 🌐 Exploring the intersection of **technology, geopolitics, and digital markets**
+
+---
+
+## 📁 Featured Research Projects (Sample / In Progress)
+
+> These repositories demonstrate how I approach real-world e-commerce research problems.
+
+### 📊 E-commerce Category Market Analysis
+
+**Description:** Market sizing, growth trends, and competitive landscape analysis for an e-commerce category.
+**Key Outputs:** Excel analysis, insight summary, and executive slide deck.
+
+### 👥 Buyer Persona & Customer Journey Study
+
+**Description:** Development of buyer personas using consumer data, reviews, and behavioral insights.
+**Key Outputs:** Persona profiles, journey maps, and targeting recommendations.
+
+### 🧠 Competitive Intelligence Playbook
+
+**Description:** Structured framework to monitor competitors’ products, pricing, positioning, and design strategies.
+**Key Outputs:** Tracking templates and insight reports.
+
+### 📈 E-commerce Trend Watch
+
+**Description:** Ongoing tracking of emerging trends in digital commerce and consumer preferences.
+**Key Outputs:** Monthly insight notes and visual summaries.
+
+
+---
+
+## 📑 How I Deliver Value
+
+* Turn raw data into **clear insights** stakeholders can act on
+* Present findings through **concise, visually appealing slides**
+* Maintain **accuracy, quality control, and documentation**
+* Support cross-functional teams with structured research outputs
+
+---
+
+## 📫 Connect With Me
+
+* 📍 **Location:** Delhi, India
+* 📧 **Email:** [Shrutikumari08083@gmail.com](mailto:Shrutikumari08083@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/shruti-kumari-776978303](https://www.linkedin.com/in/shruti-kumari-776978303)
+
+---
+
+> *“Always eager to add value through research, data, and thoughtful analysis.”*
+> 
